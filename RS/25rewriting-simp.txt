@@ -1,0 +1,1 @@
+Il costo delle autorizzazioni cambia in base al permesso richiesto.
