@@ -1,0 +1,1 @@
+A parità di punteggio, la posizione in graduatoria viene stabilita assegnando la precedenza all'utente con punteggio più elevato per la situazione familiare.
