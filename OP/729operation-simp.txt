@@ -1,0 +1,1 @@
+Ricorrendo al "rendering", sarà determinato come il progetto appare alla vista.
