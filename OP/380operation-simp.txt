@@ -1,0 +1,1 @@
+Solo nel caso l'utente non disponga di tali strumenti, sarà richiesto di indicare un numero di telefono al quale sarà contattato, in caso di assegnazione, per un massimo di due volte.
