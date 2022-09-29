@@ -1,0 +1,1 @@
+La stampa dell'attestato vaccinale scolastico fornisce un file PDF dello specifico attestato. Se le vaccinazioni non sono ancora state effettuate, viene fornito un avviso che riporta le vaccinazioni che non risultano sul sistema regionale e l'invito ad andare presso il proprio centro vaccinale o il proprio pediatra per le verifiche e le azioni del caso.
