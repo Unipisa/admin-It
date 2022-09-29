@@ -10,9 +10,12 @@ Admin-It is a parallel corpus of sentences in Italian administrative language fo
 
 References
 
-•	Brunato, D. 2015. A study on linguistic complexity from a computational linguistics perspective. A corpus-based investigation of italian bureaucratic texts. Università di Siena. Doctoral Thesis.
-•	Tonelli, S., Aprosio Palmeri, A., & Saltori, F. (2016). SIMPITIKI: a Simplification corpus for Italian. In CLiC-it/EVALITA.
-•	Passaro, L. C., & Lenci, A. 2015. Extracting terms with EXTra, in Corpas Pastor, G. (edited by), «Computerised and corpus-based approaches to phraseology: Monolingual and multilingual perspectives», Tradulex:188-196.
+* Brunato, D. 2015. A study on linguistic complexity from a computational linguistics perspective. A corpus-based investigation of italian bureaucratic texts. Università di Siena. Doctoral Thesis.
+* Cortelazzo, M. A. (1998). Semplificazione del linguaggio amministrativo. Quaderni del Comune di Trento. Progetti, 3. 
+*	Cortelazzo, M. A., Pellegrino F., & Viale, M. (1999). Semplificazione del linguaggio amministrativo. Esempi di scrittura per le comunicazioni ai cittadini. Comune di Padova.
+*	Cortelazzo, M. A. (2021). Il linguaggio amministrativo. Principi e pratiche di comunicazione. Carocci.
+*	Tonelli, S., Aprosio Palmeri, A., & Saltori, F. (2016). SIMPITIKI: a Simplification corpus for Italian. In CLiC-it/EVALITA.
+*	Passaro, L. C., & Lenci, A. 2015. Extracting terms with EXTra, in Corpas Pastor, G. (edited by), «Computerised and corpus-based approaches to phraseology: Monolingual and multilingual perspectives», Tradulex:188-196.
 
 
 
