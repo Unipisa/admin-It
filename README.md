@@ -19,10 +19,3 @@ References
 
 
 
-
-
-[//]: #Reference
-[//]: #if you use any material from this repository please cite this paper:
-[//]: #```
-[//]: #```
-
