@@ -16,4 +16,25 @@ References
 *	Passaro, L. C., & Lenci, A. 2015. Extracting terms with EXTra, in Corpas Pastor, G. (edited by), «Computerised and corpus-based approaches to phraseology: Monolingual and multilingual perspectives», Tradulex:188-196.
 
 
+## Citation
 
+If you use Admin-It in your research, please cite our AACL 2022 paper:
+
+> Martina Miliani, Serena Auriemma, Fernando Alva-Manchego and Alessandro Lenci. 2022. [Neural Readability Pairwise Ranking for Sentences in Italian Administrative Language](). In *Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing*, Online. Association for Computational Linguistics.
+
+
+```BibTeX
+@inproceedings{shardlow-alva-manchego-2022-simple,
+    title = "Neural Readability Pairwise Ranking for Sentences in Italian Administrative Language",
+    author = "Miliani, Martina and
+      Auriemma, Serena and
+      Alva-Manchego, Fernando and
+      Lenci, Alessandro",
+    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing",
+    month = nov,
+    year = "2022",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    abstract = "Automatic Readability Assessment aims at assigning a complexity level to a given text, which could help improve the accessibility to information in specific domains, such as the administrative one. In this paper, we investigate the behavior of a Neural Pairwise Ranking Model (NPRM) for sentence-level readability assessment of Italian administrative texts. To deal with data scarcity, we experiment with cross-lingual, cross- and in-domain approaches, and test our models on Admin-It, a new parallel corpus in the Italian administrative language, containing sentences simplified using three different rewriting strategies. We show that NPRMs are effective in zero-shot scenarios ($\sim$0.78 ranking accuracy), especially with ranking pairs containing simplifications produced by overall rewriting at the sentence-level, and that the best results are obtained by adding in-domain data (achieving perfect performance for such sentence pairs). Finally, we investigate where NPRMs failed, showing that the characteristics of the data used for fine-tuning, rather than its size, have a bigger effect on a model's performance.",
+}
+```
