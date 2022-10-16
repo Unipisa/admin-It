@@ -24,7 +24,7 @@ If you use Admin-It in your research, please cite our AACL 2022 paper:
 
 
 ```BibTeX
-@inproceedings{shardlow-alva-manchego-2022-simple,
+@inproceedings{miliani-etal-2022-neural,
     title = "Neural Readability Pairwise Ranking for Sentences in Italian Administrative Language",
     author = "Miliani, Martina and
       Auriemma, Serena and
